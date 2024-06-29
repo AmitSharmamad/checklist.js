@@ -27,7 +27,7 @@ in the format
 - [ ] Database
   - [ ] Encrypting passwords (bcrypt)
 
-* Gemini Advanced Suggestions (to be refined)
+# Gemini Advanced Suggestions (to be refined)
 
 - [ ] Infrastructure Security
 
